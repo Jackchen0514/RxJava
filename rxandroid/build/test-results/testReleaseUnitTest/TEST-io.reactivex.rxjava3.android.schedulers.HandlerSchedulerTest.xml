@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" tests="76" skipped="24" failures="0" errors="0" timestamp="2021-03-08T07:13:03" hostname="i" time="0.173">
+  <properties/>
+  <testcase name="directSchedulePeriodicallyUsesHookOnce[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="disposedWorkerReturnsDisposedDisposables[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.012"/>
+  <testcase name="workerDisposableTracksDisposedState[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.004"/>
+  <testcase name="workerSchedulePeriodicallyDisposedDuringRunDoesNotReschedule[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="workerSchedulePeriodicallyDisposedDoesNotRun[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="directScheduleOncePostsImmediately[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.004"/>
+  <testcase name="workerTracksDisposedState[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="directScheduleOnceWithNegativeDelayPostsImmediately[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="directSchedulePeriodicallyReschedulesItself[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="directScheduleOnceWithDelayDisposedDoesNotRun[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.004"/>
+  <testcase name="workerSchedulePeriodicallyReschedulesItself[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="directScheduleOnceWithDelayUsesHook[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.005"/>
+  <testcase name="workerScheduleOnceInputValidation[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.004"/>
+  <testcase name="directScheduleOnceInputValidation[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.008"/>
+  <testcase name="workerDisposeCancelsScheduled[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="directSchedulePeriodicallyInputValidation[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="workerSchedulePeriodicallyInputValidation[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="workerSchedulePeriodicallyThrowingDoesNotReschedule[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="workerUnsubscriptionDuringSchedulingCancelsScheduledAction[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.004"/>
+  <testcase name="workerSchedulePeriodicallyUsesHookOnce[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="throwingActionRoutedToRxJavaPlugins[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="workerScheduleOnceDisposedDoesNotRun[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="directSchedulePeriodicallyDisposedDuringRunDoesNotReschedule[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="workerScheduleOnceUsesHook[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="workerScheduleOnceWithDelayUsesHook[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="directScheduleSetAsync[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.004"/>
+  <testcase name="workerScheduleSetAsync[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="workerScheduleOnceWithNegativeDelayPostsImmediately[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="directScheduleOnceDisposedDoesNotRun[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.002"/>
+  <testcase name="directScheduleOnceWithDelayPostsWithDelay[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="workerScheduleOnceWithDelayPostsWithDelay[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="directScheduleOnceUsesHook[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="workerScheduleOncePostsImmediately[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.002"/>
+  <testcase name="workerSchedulePeriodicallySetAsync[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.005"/>
+  <testcase name="directSchedulePeriodicallyDisposedDoesNotRun[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="workerScheduleOnceWithDelayDisposedDoesNotRun[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="workerUnsubscriptionDoesNotAffectOtherWorkers[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.004"/>
+  <testcase name="directSchedulePeriodicallyThrowingDoesNotReschedule[async = true]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="directSchedulePeriodicallyUsesHookOnce[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="disposedWorkerReturnsDisposedDisposables[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="workerDisposableTracksDisposedState[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.002"/>
+  <testcase name="workerSchedulePeriodicallyDisposedDuringRunDoesNotReschedule[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="workerSchedulePeriodicallyDisposedDoesNotRun[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="directScheduleOncePostsImmediately[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.002"/>
+  <testcase name="workerTracksDisposedState[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.002"/>
+  <testcase name="directScheduleOnceWithNegativeDelayPostsImmediately[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="directSchedulePeriodicallyReschedulesItself[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="directScheduleOnceWithDelayDisposedDoesNotRun[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="workerSchedulePeriodicallyReschedulesItself[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="directScheduleOnceWithDelayUsesHook[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.002"/>
+  <testcase name="workerScheduleOnceInputValidation[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="directScheduleOnceInputValidation[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.002"/>
+  <testcase name="workerDisposeCancelsScheduled[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="directSchedulePeriodicallyInputValidation[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="workerSchedulePeriodicallyInputValidation[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="workerSchedulePeriodicallyThrowingDoesNotReschedule[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="workerUnsubscriptionDuringSchedulingCancelsScheduledAction[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="workerSchedulePeriodicallyUsesHookOnce[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="throwingActionRoutedToRxJavaPlugins[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.002"/>
+  <testcase name="workerScheduleOnceDisposedDoesNotRun[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="directSchedulePeriodicallyDisposedDuringRunDoesNotReschedule[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="workerScheduleOnceUsesHook[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="workerScheduleOnceWithDelayUsesHook[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.002"/>
+  <testcase name="directScheduleSetAsync[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.004"/>
+  <testcase name="workerScheduleSetAsync[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="workerScheduleOnceWithNegativeDelayPostsImmediately[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.002"/>
+  <testcase name="directScheduleOnceDisposedDoesNotRun[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="directScheduleOnceWithDelayPostsWithDelay[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="workerScheduleOnceWithDelayPostsWithDelay[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="directScheduleOnceUsesHook[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.002"/>
+  <testcase name="workerScheduleOncePostsImmediately[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="workerSchedulePeriodicallySetAsync[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.002"/>
+  <testcase name="directSchedulePeriodicallyDisposedDoesNotRun[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="workerScheduleOnceWithDelayDisposedDoesNotRun[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="workerUnsubscriptionDoesNotAffectOtherWorkers[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.003"/>
+  <testcase name="directSchedulePeriodicallyThrowingDoesNotReschedule[async = false]" classname="io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.disposedWorkerReturnsDisposedDisposables: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerDisposableTracksDisposedState: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOncePostsImmediately: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerTracksDisposedState: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithNegativeDelayPostsImmediately: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithDelayDisposedDoesNotRun: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithDelayUsesHook: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceInputValidation: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceInputValidation: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerDisposeCancelsScheduled: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerUnsubscriptionDuringSchedulingCancelsScheduledAction: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.throwingActionRoutedToRxJavaPlugins: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceDisposedDoesNotRun: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceUsesHook: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithDelayUsesHook: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleSetAsync: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleSetAsync: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithNegativeDelayPostsImmediately: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceDisposedDoesNotRun: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithDelayPostsWithDelay: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithDelayPostsWithDelay: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceUsesHook: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOncePostsImmediately: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerSchedulePeriodicallySetAsync: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithDelayDisposedDoesNotRun: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerUnsubscriptionDoesNotAffectOtherWorkers: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.disposedWorkerReturnsDisposedDisposables: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerDisposableTracksDisposedState: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOncePostsImmediately: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerTracksDisposedState: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithNegativeDelayPostsImmediately: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithDelayDisposedDoesNotRun: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithDelayUsesHook: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceInputValidation: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceInputValidation: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerDisposeCancelsScheduled: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerUnsubscriptionDuringSchedulingCancelsScheduledAction: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.throwingActionRoutedToRxJavaPlugins: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceDisposedDoesNotRun: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceUsesHook: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithDelayUsesHook: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleSetAsync: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleSetAsync: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithNegativeDelayPostsImmediately: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceDisposedDoesNotRun: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithDelayPostsWithDelay: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithDelayPostsWithDelay: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceUsesHook: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOncePostsImmediately: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerSchedulePeriodicallySetAsync: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithDelayDisposedDoesNotRun: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerUnsubscriptionDoesNotAffectOtherWorkers: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

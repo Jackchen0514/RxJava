@@ -1,0 +1,4 @@
+include ':rxjava'
+include ':app'
+include ':rxandroid'
+rootProject.name = "My Application"

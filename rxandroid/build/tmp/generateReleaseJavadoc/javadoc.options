@@ -1,0 +1,13 @@
+-Xdoclint:none '-quiet'
+-classpath '/home/xinsi/RxAndroid/rxandroid/build/intermediates/compile_r_class_jar/release/R.jar:/home/xinsi/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava3/rxjava/3.0.8/b9ff4d4d216a088b337fde628a49d0f3233962e7/rxjava-3.0.8.jar:/home/xinsi/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.3/d9fb7a7926ffa635b3dcaa5049fb2bfa25b3e7d0/reactive-streams-1.0.3.jar:/home/xinsi/Android/Sdk/platforms/android-30/android.jar'
+-d '/home/xinsi/RxAndroid/rxandroid/build/docs/javadoc-release'
+-doctitle 'rxandroid 3.0.1-SNAPSHOT API'
+-link 'http://reactivex.io/RxJava/javadoc/'
+-linkoffline 'http://d.android.com/reference/' '/home/xinsi/Android/Sdk/docs/reference/'
+-notimestamp 
+-quiet 
+-windowtitle 'rxandroid 3.0.1-SNAPSHOT API'
+'/home/xinsi/RxAndroid/rxandroid/src/main/java/io/reactivex/rxjava3/android/MainThreadDisposable.java'
+'/home/xinsi/RxAndroid/rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/HandlerScheduler.java'
+'/home/xinsi/RxAndroid/rxandroid/src/main/java/io/reactivex/rxjava3/android/schedulers/AndroidSchedulers.java'
+'/home/xinsi/RxAndroid/rxandroid/src/main/java/io/reactivex/rxjava3/android/plugins/RxAndroidPlugins.java'

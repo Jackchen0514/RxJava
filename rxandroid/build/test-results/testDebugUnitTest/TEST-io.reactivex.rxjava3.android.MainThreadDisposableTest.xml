@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.reactivex.rxjava3.android.MainThreadDisposableTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-03-08T07:12:52" hostname="i" time="0.022">
+  <properties/>
+  <testcase name="disposedState" classname="io.reactivex.rxjava3.android.MainThreadDisposableTest" time="0.004"/>
+  <testcase name="onUnsubscribeRunsSyncOnMainThread" classname="io.reactivex.rxjava3.android.MainThreadDisposableTest" time="0.003"/>
+  <testcase name="unsubscribeTwiceDoesNotRunTwice" classname="io.reactivex.rxjava3.android.MainThreadDisposableTest" time="0.003"/>
+  <testcase name="verifyThrowsOffMainThread" classname="io.reactivex.rxjava3.android.MainThreadDisposableTest" time="0.004"/>
+  <testcase name="onUnsubscribePostsOffMainThread" classname="io.reactivex.rxjava3.android.MainThreadDisposableTest" time="0.005"/>
+  <testcase name="verifyDoesNotThrowOnMainThread" classname="io.reactivex.rxjava3.android.MainThreadDisposableTest" time="0.002"/>
+  <system-out><![CDATA[[Robolectric] io.reactivex.rxjava3.android.MainThreadDisposableTest.disposedState: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.MainThreadDisposableTest.onUnsubscribeRunsSyncOnMainThread: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.MainThreadDisposableTest.unsubscribeTwiceDoesNotRunTwice: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.MainThreadDisposableTest.verifyThrowsOffMainThread: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.MainThreadDisposableTest.onUnsubscribePostsOffMainThread: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.MainThreadDisposableTest.verifyDoesNotThrowOnMainThread: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/xinsi/RxAndroid/rxandroid/src/main/AndroidManifest.xml:15:1-52
+INJECTED from /home/xinsi/RxAndroid/rxandroid/src/main/AndroidManifest.xml:15:1-52
+INJECTED from /home/xinsi/RxAndroid/rxandroid/src/main/AndroidManifest.xml:15:1-52
+	package
+		ADDED from /home/xinsi/RxAndroid/rxandroid/src/main/AndroidManifest.xml:15:11-49
+		INJECTED from /home/xinsi/RxAndroid/rxandroid/src/main/AndroidManifest.xml
+		INJECTED from /home/xinsi/RxAndroid/rxandroid/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/xinsi/RxAndroid/rxandroid/src/main/AndroidManifest.xml:15:1-52
+uses-sdk
+INJECTED from /home/xinsi/RxAndroid/rxandroid/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/xinsi/RxAndroid/rxandroid/src/main/AndroidManifest.xml
+INJECTED from /home/xinsi/RxAndroid/rxandroid/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/xinsi/RxAndroid/rxandroid/src/main/AndroidManifest.xml
+		ADDED from /home/xinsi/RxAndroid/rxandroid/src/main/AndroidManifest.xml
+		INJECTED from /home/xinsi/RxAndroid/rxandroid/src/main/AndroidManifest.xml

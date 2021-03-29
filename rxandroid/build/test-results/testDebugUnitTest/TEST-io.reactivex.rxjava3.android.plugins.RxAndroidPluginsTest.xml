@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-03-08T07:12:52" hostname="i" time="0.035">
+  <properties/>
+  <testcase name="overrideInitMainSchedulerThrowsWhenSchedulerCallableReturnsNull" classname="io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest" time="0.005"/>
+  <testcase name="getMainThreadSchedulerHandlerReturnsHandler" classname="io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest" time="0.003"/>
+  <testcase name="defaultMainThreadSchedulerIsInitializedLazily" classname="io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest" time="0.003"/>
+  <testcase name="mainThreadHandlerCalled" classname="io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest" time="0.003"/>
+  <testcase name="resetClearsMainThreadHandler" classname="io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest" time="0.003"/>
+  <testcase name="getInitMainThreadSchedulerHandlerReturnsNullIfNotSet" classname="io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest" time="0.003"/>
+  <testcase name="getMainThreadSchedulerHandlerReturnsNullIfNotSet" classname="io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest" time="0.002"/>
+  <testcase name="resetClearsInitMainThreadHandler" classname="io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest" time="0.003"/>
+  <testcase name="getInitMainThreadSchedulerHandlerReturnsHandler" classname="io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest" time="0.003"/>
+  <testcase name="initMainThreadHandlerCalled" classname="io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest" time="0.003"/>
+  <testcase name="overrideInitMainSchedulerThrowsWhenSchedulerCallableIsNull" classname="io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest" time="0.002"/>
+  <system-out><![CDATA[[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.overrideInitMainSchedulerThrowsWhenSchedulerCallableReturnsNull: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.getMainThreadSchedulerHandlerReturnsHandler: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.defaultMainThreadSchedulerIsInitializedLazily: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.mainThreadHandlerCalled: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.resetClearsMainThreadHandler: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.getInitMainThreadSchedulerHandlerReturnsNullIfNotSet: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.getMainThreadSchedulerHandlerReturnsNullIfNotSet: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.resetClearsInitMainThreadHandler: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.getInitMainThreadSchedulerHandlerReturnsHandler: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.initMainThreadHandlerCalled: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.overrideInitMainSchedulerThrowsWhenSchedulerCallableIsNull: sdk=16; resources=LEGACY
+[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

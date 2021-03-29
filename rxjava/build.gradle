@@ -1,0 +1,15 @@
+apply plugin: "java-library"
+apply plugin: "checkstyle"
+apply plugin: "jacoco"
+apply plugin: "maven"
+apply plugin: "eclipse"
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    api "org.reactivestreams:reactive-streams:1.0.3"
+    //jmh "org.reactivestreams:reactive-streams:1.0.3"
+}
+
+sourceCompatibility = "1.8"
+targetCompatibility = "1.8"

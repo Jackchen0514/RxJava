@@ -1,0 +1,256 @@
+x[Robolectric] io.reactivex.rxjava3.android.schedulers.AndroidSchedulersTest.asyncIgnoredPre16: sdk=16; resources=LEGACY
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+u[Robolectric] io.reactivex.rxjava3.android.schedulers.AndroidSchedulersTest.fromNullThrows: sdk=16; resources=LEGACY
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+{[Robolectric] io.reactivex.rxjava3.android.schedulers.AndroidSchedulersTest.fromNullThrowsTwoArg: sdk=16; resources=LEGACY
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+Å[Robolectric] io.reactivex.rxjava3.android.schedulers.AndroidSchedulersTest.fromReturnsUsableScheduler: sdk=16; resources=LEGACY
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+Å[Robolectric] io.reactivex.rxjava3.android.schedulers.AndroidSchedulersTest.fromAsyncMessagesByDefault: sdk=16; resources=LEGACY
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+É[Robolectric] io.reactivex.rxjava3.android.schedulers.AndroidSchedulersTest.mainThreadCallsThroughToHook: sdk=16; resources=LEGACY
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+á[Robolectric] io.reactivex.rxjava3.android.schedulers.AndroidSchedulersTest.mainThreadAsyncMessagesByDefault: sdk=16; resources=LEGACY
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+é[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.disposedWorkerReturnsDisposedDisposables: sdk=16; resources=LEGACY
+
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+â[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerDisposableTracksDisposedState: sdk=16; resources=LEGACY
+
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+à[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOncePostsImmediately: sdk=16; resources=LEGACY
+
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerTracksDisposedState: sdk=16; resources=LEGACY
+
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+ô[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithNegativeDelayPostsImmediately: sdk=16; resources=LEGACY
+
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+ì[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithDelayDisposedDoesNotRun: sdk=16; resources=LEGACY
+
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+â[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithDelayUsesHook: sdk=16; resources=LEGACY
+
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+á[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceInputValidation: sdk=16; resources=LEGACY
+
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+á[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceInputValidation: sdk=16; resources=LEGACY
+
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+É[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerDisposeCancelsScheduled: sdk=16; resources=LEGACY
+
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+†[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerUnsubscriptionDuringSchedulingCancelsScheduledAction: sdk=16; resources=LEGACY
+
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+â[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.throwingActionRoutedToRxJavaPlugins: sdk=16; resources=LEGACY
+
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+ä[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceDisposedDoesNotRun: sdk=16; resources=LEGACY
+
+q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+!Ä[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceUsesHook: sdk=16; resources=LEGACY
+
+!q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+"â[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithDelayUsesHook: sdk=16; resources=LEGACY
+
+"q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+#|[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleSetAsync: sdk=16; resources=LEGACY
+
+#q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+$|[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleSetAsync: sdk=16; resources=LEGACY
+
+$q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+%ô[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithNegativeDelayPostsImmediately: sdk=16; resources=LEGACY
+
+%q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+&ä[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceDisposedDoesNotRun: sdk=16; resources=LEGACY
+
+&q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+'è[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithDelayPostsWithDelay: sdk=16; resources=LEGACY
+
+'q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+(è[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithDelayPostsWithDelay: sdk=16; resources=LEGACY
+
+(q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+)Ä[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceUsesHook: sdk=16; resources=LEGACY
+
+)q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+*à[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOncePostsImmediately: sdk=16; resources=LEGACY
+
+*q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
++à[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerSchedulePeriodicallySetAsync: sdk=16; resources=LEGACY
+
++q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+-ì[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithDelayDisposedDoesNotRun: sdk=16; resources=LEGACY
+
+-q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+.ì[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerUnsubscriptionDoesNotAffectOtherWorkers: sdk=16; resources=LEGACY
+
+.q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+1é[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.disposedWorkerReturnsDisposedDisposables: sdk=16; resources=LEGACY
+
+1q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+2â[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerDisposableTracksDisposedState: sdk=16; resources=LEGACY
+
+2q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+5à[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOncePostsImmediately: sdk=16; resources=LEGACY
+
+5q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+6[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerTracksDisposedState: sdk=16; resources=LEGACY
+
+6q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+7ô[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithNegativeDelayPostsImmediately: sdk=16; resources=LEGACY
+
+7q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+9ì[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithDelayDisposedDoesNotRun: sdk=16; resources=LEGACY
+
+9q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+;â[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithDelayUsesHook: sdk=16; resources=LEGACY
+
+;q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+<á[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceInputValidation: sdk=16; resources=LEGACY
+
+<q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+=á[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceInputValidation: sdk=16; resources=LEGACY
+
+=q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+>É[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerDisposeCancelsScheduled: sdk=16; resources=LEGACY
+
+>q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+B†[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerUnsubscriptionDuringSchedulingCancelsScheduledAction: sdk=16; resources=LEGACY
+
+Bq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+Dâ[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.throwingActionRoutedToRxJavaPlugins: sdk=16; resources=LEGACY
+
+Dq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+Eä[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceDisposedDoesNotRun: sdk=16; resources=LEGACY
+
+Eq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+GÄ[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceUsesHook: sdk=16; resources=LEGACY
+
+Gq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+Hâ[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithDelayUsesHook: sdk=16; resources=LEGACY
+
+Hq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+I|[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleSetAsync: sdk=16; resources=LEGACY
+
+Iq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+J|[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleSetAsync: sdk=16; resources=LEGACY
+
+Jq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+Kô[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithNegativeDelayPostsImmediately: sdk=16; resources=LEGACY
+
+Kq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+Lä[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceDisposedDoesNotRun: sdk=16; resources=LEGACY
+
+Lq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+Mè[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceWithDelayPostsWithDelay: sdk=16; resources=LEGACY
+
+Mq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+Nè[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithDelayPostsWithDelay: sdk=16; resources=LEGACY
+
+Nq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+OÄ[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.directScheduleOnceUsesHook: sdk=16; resources=LEGACY
+
+Oq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+Pà[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOncePostsImmediately: sdk=16; resources=LEGACY
+
+Pq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+Qà[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerSchedulePeriodicallySetAsync: sdk=16; resources=LEGACY
+
+Qq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+Sì[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerScheduleOnceWithDelayDisposedDoesNotRun: sdk=16; resources=LEGACY
+
+Sq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+
+Tì[Robolectric] io.reactivex.rxjava3.android.schedulers.HandlerSchedulerTest.workerUnsubscriptionDoesNotAffectOtherWorkers: sdk=16; resources=LEGACY
+
+Tq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+WVl[Robolectric] io.reactivex.rxjava3.android.MainThreadDisposableTest.disposedState: sdk=16; resources=LEGACY
+WVq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+WXÄ[Robolectric] io.reactivex.rxjava3.android.MainThreadDisposableTest.onUnsubscribeRunsSyncOnMainThread: sdk=16; resources=LEGACY
+WXq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+WY~[Robolectric] io.reactivex.rxjava3.android.MainThreadDisposableTest.unsubscribeTwiceDoesNotRunTwice: sdk=16; resources=LEGACY
+WYq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+WZx[Robolectric] io.reactivex.rxjava3.android.MainThreadDisposableTest.verifyThrowsOffMainThread: sdk=16; resources=LEGACY
+WZq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+W[~[Robolectric] io.reactivex.rxjava3.android.MainThreadDisposableTest.onUnsubscribePostsOffMainThread: sdk=16; resources=LEGACY
+W[q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+W\}[Robolectric] io.reactivex.rxjava3.android.MainThreadDisposableTest.verifyDoesNotThrowOnMainThread: sdk=16; resources=LEGACY
+W\q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+^]¢[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.overrideInitMainSchedulerThrowsWhenSchedulerCallableReturnsNull: sdk=16; resources=LEGACY
+^]q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+^_é[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.getMainThreadSchedulerHandlerReturnsHandler: sdk=16; resources=LEGACY
+^_q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+^`ê[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.defaultMainThreadSchedulerIsInitializedLazily: sdk=16; resources=LEGACY
+^`q[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+^az[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.mainThreadHandlerCalled: sdk=16; resources=LEGACY
+^aq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+^b[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.resetClearsMainThreadHandler: sdk=16; resources=LEGACY
+^bq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+^có[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.getInitMainThreadSchedulerHandlerReturnsNullIfNotSet: sdk=16; resources=LEGACY
+^cq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+^dì[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.getMainThreadSchedulerHandlerReturnsNullIfNotSet: sdk=16; resources=LEGACY
+^dq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+^eÉ[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.resetClearsInitMainThreadHandler: sdk=16; resources=LEGACY
+^eq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+^fí[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.getInitMainThreadSchedulerHandlerReturnsHandler: sdk=16; resources=LEGACY
+^fq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+^g~[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.initMainThreadHandlerCalled: sdk=16; resources=LEGACY
+^gq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
+^hù[Robolectric] io.reactivex.rxjava3.android.plugins.RxAndroidPluginsTest.overrideInitMainSchedulerThrowsWhenSchedulerCallableIsNull: sdk=16; resources=LEGACY
+^hq[Robolectric] NOTICE: legacy resources mode is deprecated; see http://robolectric.org/migrating/#migrating-to-40
